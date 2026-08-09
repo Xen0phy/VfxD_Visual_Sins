@@ -1,7 +1,7 @@
 {
 	"version": {
 		"major": 1,
-		"minor": 9
+		"minor": 10
 	},
 	"categories": [
 		{
@@ -725,7 +725,7 @@
 							]
 						},
 						{
-							"name": "Inf - Chromatic infusion",
+							"name": "Inf - Chromatic Bubbles",
 							"guids": [
 								"MTw63/iAq7xB4sMkai3g+g=="
 							],
@@ -1583,6 +1583,18 @@
 					],
 					"effects": [
 						{
+							"name": "Items - Metabolic/Utillity Primer - Sparks",
+							"guids": [
+								"TcgIfoy0kL9Lw06cMAeFpw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
 							"name": "Items - White Mantle Portal Device - Dim Portal",
 							"guids": [
 								"OKM0eLu2oqJNpRn6/nMz1A=="
@@ -1679,9 +1691,22 @@
 							]
 						},
 						{
-							"name": "Items - Primer - Sparks",
+							"name": "Items - Sharpening Skull - Feline Fury - Dark Body",
+							"description": "Type 5\n\n",
 							"guids": [
-								"TcgIfoy0kL9Lw06cMAeFpw=="
+								"tb29s7QqAKBJazp1o4Is0Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Items - Sharpening Skull - Feline Fury - Purple Glow",
+							"guids": [
+								"mYt3+zXaObVNPLBI+VPzIQ=="
 							],
 							"behaviors": [
 								{
@@ -2636,6 +2661,67 @@
 							]
 						},
 						{
+							"name": "Cozy Wintersday Set",
+							"effects": [
+								{
+									"name": "Mounts - Cozy Wintersday - Mount Up Whirl",
+									"guids": [
+										"9QFvq0L56I1F6Id9GpC6zg==",
+										"80lV3bWOUqdDoFGj8N3fdQ=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Mounts - Cozy Wintersday - Dismount Whirl",
+									"guids": [
+										"yoilFnwqoYdL4hWLBLuX0g==",
+										"tzDBjRT4cKVK6Rl7rlzxjA=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Mounts - Cozy Wintersday Jackal - Appearance",
+									"description": "Type 5\nStones, saddle, body\n\n",
+									"guids": [
+										"SNugDIH5urRDvocwGCbYkg==",
+										"zmFuu38yrZNPBrQ46s/NcA==",
+										"OlYpSLmIjq5HFkCtFWZukA=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "Mounts - Cozy Wintersday Jackal - Disappearance",
+									"description": "Type 5\nStones, saddle, body\n\n",
+									"guids": [
+										"d0W7p6KY8JBO2ueGI99R0A==",
+										"SW/vibAqzLpDm2D91Vfx4Q==",
+										"0jP+QIL/vplHVrMAxpAqMQ=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								}
+							]
+						},
+						{
 							"name": "Enchanted Set",
 							"effects": [
 								{
@@ -2687,6 +2773,86 @@
 											"caster": "Others"
 										}
 									]
+								}
+							]
+						}
+					],
+					"effects": [
+						{
+							"name": "Guildrider Warclaw - Mount Up",
+							"description": "Type 5\nTail, emblem, body\n\n",
+							"guids": [
+								"kW09jEKQTJ9E+K+Ib/kEIQ==",
+								"glZhQgL2I5NIFKqg4k/VdQ==",
+								"o9aFo+VxMK1Mbk/RaDN1oQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Guildrider Warclaw - Dismount",
+							"description": "Type 5\nTail, emblem, body\n\n",
+							"guids": [
+								"FixTSAP3aY5LNsRJwn1zcw==",
+								"lOrvuNx+1INHcOhj+ucjfw==",
+								"RQo3aCy4/4FBzZF/WnoiNw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Mounts - Steamwork Skyscale - Cogs Head",
+							"guids": [
+								"lv6YayGUPqBBiPxycZjgzw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Mounts - Steamwork Skyscale - Cogs Chest",
+							"guids": [
+								"UdRo1tjWbYFCRM6E7V3FFA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Mounts - Synergetic Skyscale - Mount Up",
+							"guids": [
+								"rizpRTo9qYZFu6EvlzWZIw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Mounts - Synergetic Skyscale - Dismount",
+							"guids": [
+								"Ewum40JwN7FBa8I9f5D0OQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
 								}
 							]
 						}
@@ -2966,6 +3132,71 @@
 							]
 						}
 					]
+				},
+				{
+					"name": "Jade Bot",
+					"effects": [
+						{
+							"name": "Jade Bot - Charging Station",
+							"guids": [
+								"+lAMwW9x1IZNogIErrHtrg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Jade Bot - Offensive/Defensive Protocols",
+							"guids": [
+								"0pBCSL6k9KBJ5QLTISc/uA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Jade Bot - Battery/Chest",
+							"guids": [
+								"RrQSisp4zKVOllQFYJCG+Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Jade Bot - Zip Line - Bot Green Glow",
+							"guids": [
+								"+sBs9GP4E4NECh4xFZCTkQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Jade Bot - Zip Line - Dragon Blue Glow",
+							"guids": [
+								"sv7n6NSVhr5JdiuxSQL9EA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
 				}
 			]
 		},
@@ -3181,6 +3412,78 @@
 									"name": "Asura - Technobabble - Blast",
 									"guids": [
 										"PR2+ddjWuLtLJEvm+ZPNBw=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - D/7-Series Golem - Disappearing Lightning",
+									"guids": [
+										"Nlv1yWDfi79P54MDrHTLsw=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - D/7-Series Golem - Disappearing Explosion",
+									"guids": [
+										"gSCRf35r3YtKlO9bIre2sA=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - Summon Power Suit - Discharge",
+									"guids": [
+										"fVh/jM0bx5FKL3/1Os4xKQ=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - Power Suit 4 - Charge",
+									"guids": [
+										"tG8aaX12pLpNtiOqDU3gBw=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - Power Suit 4 - RTrail",
+									"guids": [
+										"hMNO5Hqra6lImg3ZbHFtwQ=="
+									],
+									"behaviors": [
+										{
+											"type": "Hide",
+											"caster": "Others"
+										}
+									]
+								},
+								{
+									"name": "Asura - Power Suit 4 - LTRail",
+									"guids": [
+										"6NCmQ+MZxbZFQxF5cqQ8TQ=="
 									],
 									"behaviors": [
 										{
@@ -19505,8 +19808,8 @@
 													],
 													"behaviors": [
 														{
-															"type": "Hide",
-															"caster": "Others"
+															"type": "Show",
+															"caster": "All"
 														}
 													]
 												},
@@ -42846,8 +43149,8 @@
 											],
 											"behaviors": [
 												{
-													"type": "Hide",
-													"caster": "Others"
+													"type": "Show",
+													"caster": "All"
 												}
 											]
 										},
@@ -43232,6 +43535,7 @@
 										},
 										{
 											"name": "Combo Finisher - Light-Projectile - Ray",
+											"description": "Used by:\n   * Asura:(Power Suit 3)\n\n",
 											"guids": [
 												"jicN9/NnkK1FTh/6dtE2TQ=="
 											],
@@ -43451,7 +43755,7 @@
 							"effects": [
 								{
 									"name": "Combo Finisher - Fire|Light|Ethereal-Projectile - Dim Burst",
-									"description": "Used by:\n  * El:(Pistol(Air) 1|2)\n  * Asura(En):(Pain Transference)\n\n",
+									"description": "Used by:\n  * El:(Pistol(Air) 1|2)\n  * Asura(En):(Pain Transference|Power Suit 3)\n\n",
 									"guids": [
 										"QEnN2ZCVI6BPf0mlsEkAPg=="
 									],
@@ -43748,6 +44052,19 @@
 							"description": "Type 0\n\n",
 							"guids": [
 								"AcJ/Qk//5JJBMvA5YbwDzw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Re Spear 4 - Swoosh",
+							"description": "Type 0\n\n",
+							"guids": [
+								"AZCd4YCLMLxNW71G32dpng=="
 							],
 							"behaviors": [
 								{
@@ -44879,7 +45196,8 @@
 								{
 									"name": "Stella Radians - Halo",
 									"guids": [
-										"J0fawfQtf49DhvyJcAzDzg=="
+										"J0fawfQtf49DhvyJcAzDzg==",
+										"kyQxvlUflKJHlGVTmAmL9Q=="
 									],
 									"behaviors": [
 										{
@@ -49750,6 +50068,78 @@
 											"duration": 1
 										}
 									]
+								},
+								{
+									"name": "CRASH Mount - Mad Realm Warclaw - Wings",
+									"guids": [
+										"4T4Ehjo9AYFI6/FoS/pbEQ=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "CRASH Mount - Mad Realm Jackal - Wings",
+									"guids": [
+										"LoMpwZwqYbZMcz1ZLsuJ2g=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "CRASH Mount - Mad Realm Springer - Wings",
+									"guids": [
+										"+CzhOr2v9LJC4nqo5G++Wg=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "CRASH Mount - Mad Realm Raptor - Wings",
+									"guids": [
+										"PC6G4VVI0rBNMfagNpbX9A=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "CRASH Mount - Lithosol - ??",
+									"guids": [
+										"+BeDYXNqE49JqSAYONSutA=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "CRASH Mount - Super Outlaw Raptor - ??",
+									"guids": [
+										"fbFaroziJr9ELQKJIwb0Mg=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
 								}
 							]
 						},
@@ -50202,6 +50592,19 @@
 									"description": "Used by:\n  * Mounts:(Basic)\n\n",
 									"guids": [
 										"P3pwYuGO+4xAM7sBBhRu3Q=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "INV°T5 012",
+									"description": "Type 5\nUsed by:\n  * Mounts:(Alloyed Construct)\n\n",
+									"guids": [
+										"7N3ec+E1NYRFO7U6OUtfuQ=="
 									],
 									"behaviors": [
 										{
@@ -51327,7 +51730,7 @@
 										},
 										{
 											"name": "INV°T6 082",
-											"description": "Used by:\n  * Ra:(Pet Blinding|Chilling|Brash|Lacerating Slash)\n\n",
+											"description": "Used by:\n  * Ra:(Pet Blinding|Chilling|Brash|Lacerating Slash)\n  * Asura:(Power Suit 1)\n\n",
 											"guids": [
 												"xf4TegPq2YpMSX1LqfONjQ=="
 											],
@@ -51359,8 +51762,8 @@
 											],
 											"behaviors": [
 												{
-													"type": "Hide",
-													"caster": "Others"
+													"type": "Show",
+													"caster": "All"
 												}
 											]
 										},
@@ -52180,6 +52583,49 @@
 				{
 					"name": "Environment",
 					"description": "Think twice before you disable any of this.\n\n",
+					"categories": [
+						{
+							"name": "EoD",
+							"effects": [
+								{
+									"name": "Env - Jade Tech Zip Line - Glow",
+									"guids": [
+										"3WqOhytFAodJW/oKTNhasw=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "Env - Jade Tech Zip Line - Line",
+									"guids": [
+										"AQliu5ec85BFnhFlhQm7Xg=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								},
+								{
+									"name": "Env - Jade Tech Zip Line - Disc",
+									"guids": [
+										"1rjJp+C5q6tELOTxDmmHRA=="
+									],
+									"behaviors": [
+										{
+											"type": "Show",
+											"caster": "All"
+										}
+									]
+								}
+							]
+						}
+					],
 					"effects": [
 						{
 							"name": "Dragonstorm - Destroyer Fissure/Big Ice Thing - INV on Hit 1",
@@ -52768,9 +53214,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Custom"
 		}
 	]
 }
