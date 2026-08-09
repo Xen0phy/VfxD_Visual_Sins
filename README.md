@@ -1,3 +1,15 @@
+> [!NOTE]
+>
+> # New Updater available
+>
+> I created an updater over at the [VfxD Visual Sins Updater](https://github.com/Xen0phy/VfxD-visual-sins-updater) repo you can download and use to more easily and conveniently update this effect collection.
+
+___
+___
+
+
+
+
 ## Usage
 
 These configuration files are designed for [Vfx Denoiser](https://github.com/HasKha/VfxDenoiserReleases)
