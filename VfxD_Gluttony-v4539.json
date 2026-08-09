@@ -49597,15 +49597,20 @@
 							"categories": [
 								{
 									"name": "Boosted Jetpack Glider",
+									"description": "If you want to hide those only hide 4 of leg/hand/back\nand only hide 3 landing thrusters or else the game will crash.\nYou can use SetDuration -> 1 for the remaining.\n\nOrder: Hfm A1 Cfm Nfm Sfm\n\n",
 									"effects": [
 										{
 											"name": "CRASH - Boosted Jetpack - Right Leg Thruster",
 											"guids": [
 												"QsO9h0kc6IRAC05MsjxscQ==",
+												"AW0Mo/7+mKhEz77+D6KikA==",
 												"iUBljXfexYJDQ0ShIJVuZQ==",
+												"GXRSG2Q2PLdNYd7TjRlRtg==",
 												"c5vSW3keWaFA11e97HUGOQ==",
 												"Tv9DBrfm24hI7VgjOWit0Q==",
-												"U5bauRvraZ5OgHgrR7GuiA=="
+												"Gpyrzg9meI1E1QI1f/zt7w==",
+												"U5bauRvraZ5OgHgrR7GuiA==",
+												"xqnPB3p26a9O9Z4DQGHr1w=="
 											],
 											"behaviors": [
 												{
@@ -49618,10 +49623,14 @@
 											"name": "CRASH - Boosted Jetpack - Left Leg Thruster",
 											"guids": [
 												"02DPlJzhzZZCb8xeIje5ng==",
+												"aUcO+eZ0YZhLQWH3ak0cvw==",
 												"1zBD7GPrb7ZLn9RNScWPKg==",
+												"4Kavr1nvz7VPGrSJBduq2A==",
 												"YI6agfuyj61NMZqUywxqOA==",
 												"llAiCZvZhoFNl/noyZqasQ==",
-												"JPedAIZZ7qdFWuxIxEY/KA=="
+												"1niZ5CI14pVOwU74TwLGKQ==",
+												"JPedAIZZ7qdFWuxIxEY/KA==",
+												"TS286oMJLLJCnGYIeJUGWg=="
 											],
 											"behaviors": [
 												{
@@ -49634,10 +49643,14 @@
 											"name": "CRASH - Boosted Jetpack - Right Hand Thruster",
 											"guids": [
 												"05Auq74dn7JACkbfPhw/oQ==",
+												"UmGhCmJDVbNA/p7vth/C8A==",
 												"KL+pvDpDH71BKMO+Ur5O1w==",
 												"tPXiCV1V7Y9OAcDepj1eDQ==",
+												"3GqhrIIdgYpKg6eGjcx/Kw==",
 												"vzpyJOSC9pNLYGNTY9Iz5g==",
-												"AsFr5g6KerVP07dxVOo9SA=="
+												"Z6N1KzYglb5EdKtobLM4vA==",
+												"AsFr5g6KerVP07dxVOo9SA==",
+												"FHsmrzMSprpIiLXtUAk+mA=="
 											],
 											"behaviors": [
 												{
@@ -49650,10 +49663,14 @@
 											"name": "CRASH - Boosted Jetpack - Left Hand Thruster",
 											"guids": [
 												"8yWj+k88q4BOJvDkFSmoiA==",
+												"G7vpNgHNy5hCe1mBzyqGtQ==",
 												"r/GHE8MRvahG2PzFYjTVnQ==",
+												"624PnWMnj7JD90n2SFjARg==",
 												"jyuND7r8NatHBmtvXCqZ7w==",
 												"7HmQZeZHzbdGVTYaeroHkQ==",
-												"r0Uf6l2u8ZZBBwNEwGbXpQ=="
+												"vEV5/egROJNNhU0hvIloXw==",
+												"r0Uf6l2u8ZZBBwNEwGbXpQ==",
+												"aJjV8RiARohF6Z6zoLLmGg=="
 											],
 											"behaviors": [
 												{
@@ -49666,10 +49683,14 @@
 											"name": "CRASH - Boosted Jetpack - Back Thruster",
 											"guids": [
 												"f2qdxL6OEJlEKM8NgvwT2A==",
+												"sCtXkswc5IdEoeTQjhB+9g==",
 												"N79qLLsBXJ1PUiAUvhtIUg==",
+												"5982yQDdRq5OycKuH3/GXA==",
 												"+Vfq+qrIsrlGz9qIl8wR7Q==",
 												"I4KR6tO+D7tOINZglmQVnQ==",
-												"EX/Ht87ooZVNf4PijRjjyQ=="
+												"beo+gs3eX49P1Erd2wW+Kg==",
+												"EX/Ht87ooZVNf4PijRjjyQ==",
+												"0YtADZSRGpZJ8lpXze7hUw=="
 											],
 											"behaviors": [
 												{
@@ -49682,10 +49703,14 @@
 											"name": "CRASH - Boosted Jetpack - Leaving Thruster 1",
 											"guids": [
 												"Ep/NW/zKpKxLFXmcvdPY8Q==",
+												"3kZoL08Px6hGUp39DTjC0w==",
 												"lSWIvtKpKJJAbwVGiZm05Q==",
+												"GPS6JYylNI1Kf7bwSfBc7w==",
 												"WtcX874nJrhPeuFjzDhi5g==",
 												"h6QN8TAo5ZhMwdVJ47goiA==",
-												"j32mqzgecLJLJ7wUKD2McQ=="
+												"aS7Y4NS3RLRIaHKTdVPnig==",
+												"j32mqzgecLJLJ7wUKD2McQ==",
+												"gsjLaVfvZ6BDxauKc4dpeQ=="
 											],
 											"behaviors": [
 												{
@@ -49698,10 +49723,14 @@
 											"name": "CRASH - Boosted Jetpack - Leaving Thruster 2",
 											"guids": [
 												"0fBWMqlAJ55D+XroYNiwww==",
+												"X8MGePHRSI5P55EEFnj+rQ==",
 												"ga8tw6lrAI9IoXNDqa9ySQ==",
+												"+Q7p0oqWV69Jivq6OAiv8g==",
 												"PNxlG5e/v7lPYgMCxfuk7w==",
 												"ng3DUSqpHZ9GQ7PkcBaaXQ==",
-												"9v6laGsb4KVAcTNpCrETtw=="
+												"UVLR5U62nIZIr92Ra3P4nA==",
+												"9v6laGsb4KVAcTNpCrETtw==",
+												"bsfPqSEhdKBOMccjXf58MQ=="
 											],
 											"behaviors": [
 												{
@@ -49714,10 +49743,14 @@
 											"name": "CRASH - Boosted Jetpack - Leaving Thruster 3",
 											"guids": [
 												"7sUuODfPp4lIk90q/7rX5A==",
+												"m7QLfgbb2LhOWMgldQYlWQ==",
 												"zLn9uogr25NDWNLu6bFCbQ==",
 												"e9gPXBQ+25xCKLNCJd+oJw==",
+												"Rq91UxM5z6NED/NEai7RAA==",
 												"7npNdRYsSp5EVATxFBW7xA==",
-												"8L5yP4uhpYxGqmJ9AUPX/A=="
+												"tzUtdhy04ppAMRnIkFnUxA==",
+												"8L5yP4uhpYxGqmJ9AUPX/A==",
+												"zQI8K9suco5ANTP0AcaoYQ=="
 											],
 											"behaviors": [
 												{
@@ -49730,10 +49763,14 @@
 											"name": "CRASH - Boosted Jetpack - Leaving Thruster 4",
 											"guids": [
 												"Vh/dABOwlaFLOrLRwOor1A==",
+												"4WGWEjwS5blP5+jFoQCkMA==",
 												"N5z85GyBIa9FqxWI4KZG0w==",
+												"ADO+GsXENYZJksIYENurew==",
 												"VQ/wpMKiuodHnfEHF7DzZA==",
 												"uUyEzrSL7LRAPm5ULwsKCA==",
-												"YziKI3C136xNBN4QhYzFuw=="
+												"iCpbGzUnCJ9D47sfdq7H9A==",
+												"YziKI3C136xNBN4QhYzFuw==",
+												"6XuPCgI0QaRI/207dcEhQA=="
 											],
 											"behaviors": [
 												{
@@ -53214,6 +53251,9 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Custom"
 		}
 	]
 }
